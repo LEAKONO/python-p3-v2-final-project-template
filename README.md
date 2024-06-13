@@ -59,7 +59,6 @@ This project is an Inventory Management System designed to help businesses keep 
 12. **As a user, I want to delete a product, so that I can remove products I no longer need.**
 
 
-
 ### create and activate a virtual environment using pipenv:
 pipenv --python 3.x
 pipenv install
@@ -72,4 +71,7 @@ pipenv install
 python seed.py
 
 ### Run the application:
-python cli.py
+- cd lib folder
+
+- python cli.py
+
